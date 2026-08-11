@@ -87,7 +87,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arthur-medeiros-dos-santos/arthur-medeiros-dos-santos/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="150" alt="Arthur's GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/arthur-medeiros-dos-santos/arthur-medeiros-dos-santos/streak-output/streak.svg" height="150" alt="Arthur's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=arthur-medeiros-dos-santos&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph" />
 </div>
 
 <br clear="both" />
